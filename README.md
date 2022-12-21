@@ -5,13 +5,21 @@
 
 ### LIVE LINKS TO SOME OF MY PROJECTS
 
-- METABNB: [Live site URL here](https://hng-metabnb.vercel.app/)
+- METABNB:
+ Technologies: ReactJS, CSS, Framer motion, AOS(Animate On Scroll).
+ [Live site URL here](https://hng-metabnb.vercel.app/)
 
-- COUNTRY API: [Live site URL here](https://restcountry-api-v3.netlify.app/)
+- COUNTRY API: 
+  Technologies: ReactJS, MUI(Material-UI), Framer motion.
+  [Live site URL here](https://restcountry-api-v3.netlify.app/)
 
-- LINK FOREST: [Live site URL here](http://linkforest-three.vercel.app/)
+- LINK FOREST:
+  Technologies: ReactJS, CSS, Framer motion.
+  [Live site URL here](http://linkforest-three.vercel.app/)
 
-- OPSPAD: The Pricing and payment pages [Live site URL here](https://opspad.hng.tech/)
+- OPSPAD: The Pricing and payment pages.
+  Technologies: ReactJS, MUI, CSS Modules.
+  [Live site URL here](https://opspad.hng.tech/)
 <!---
 heytega/heytega is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
