@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Tega Anthony
 - 👀 I’m interested in building frontend cutting edge technologies
-- 💞️ I’m looking to collaborate on Real world React Projects
+- 💞️ I’m looking to collaborate on Real world React Projects and contribute actively to open source.
 - 📫 How to reach me: akpovbiyoranthony@gmail.com
 
 ### LIVE LINKS TO SOME OF MY PROJECTS
