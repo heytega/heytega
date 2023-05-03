@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Tega Anthony Christian
+- 👋 Hi, I’m Tega Anthony Akpovbiyor
 - 👀 I’m interested in building frontend cutting edge technologies
 - 💞️ I’m looking to collaborate on real world Projects and contribute actively to open source.
 - 📫 How to reach me: akpovbiyoranthony@gmail.com
