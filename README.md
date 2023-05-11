@@ -22,9 +22,9 @@
   Technologies: ReactJS, CSS module, Framer motion.
   [Live site URL here](http://linkforest-three.vercel.app/)
 
-- OPSPAD: The Pricing and payment pages.
-  Technologies: ReactJS, MUI, CSS Modules.
-  [Live site URL here](https://opspad.hng.tech/)
+- Fortae: Portfolio.
+  Technologies: ReactJS, Firebase, CSS Modules, GSAP.
+  [Live site URL here](https://fortae.vercel.app/)
 <!---
 heytega/heytega is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
