@@ -2,7 +2,7 @@
 
 - 👀 I’m interested in building frontend cutting edge technologies.
 
-- I'm currently open to hybrid jobs in Lagos or Ogun state as well as all remote job offers.
+- I'm currently open to hybrid jobs in Lagos or Ogun state as well as all remote job offers from any location.
 
 - 💞️ I’m looking to collaborate on real world Projects and contribute actively to open source.
 
